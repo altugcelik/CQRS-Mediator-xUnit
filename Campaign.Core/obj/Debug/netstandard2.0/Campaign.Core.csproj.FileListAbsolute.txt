@@ -1,0 +1,9 @@
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\bin\Debug\netstandard2.0\Campaign.Core.deps.json
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\bin\Debug\netstandard2.0\Campaign.Core.dll
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\bin\Debug\netstandard2.0\Campaign.Core.pdb
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.csprojAssemblyReference.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.AssemblyInfoInputs.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.AssemblyInfo.cs
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.csproj.CoreCompileInputs.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.dll
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Core\obj\Debug\netstandard2.0\Campaign.Core.pdb

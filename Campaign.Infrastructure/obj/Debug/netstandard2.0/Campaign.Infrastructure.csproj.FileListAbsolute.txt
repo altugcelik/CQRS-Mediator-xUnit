@@ -1,0 +1,12 @@
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\bin\Debug\netstandard2.0\Campaign.Infrastructure.deps.json
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\bin\Debug\netstandard2.0\Campaign.Infrastructure.dll
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\bin\Debug\netstandard2.0\Campaign.Infrastructure.pdb
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\bin\Debug\netstandard2.0\Campaign.Core.dll
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\bin\Debug\netstandard2.0\Campaign.Core.pdb
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.csprojAssemblyReference.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.AssemblyInfoInputs.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.AssemblyInfo.cs
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.csproj.CopyComplete
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.dll
+D:\HepsiBurada\Hepsiburada-Case\src\Campaign\Campaign.Infrastructure\obj\Debug\netstandard2.0\Campaign.Infrastructure.pdb

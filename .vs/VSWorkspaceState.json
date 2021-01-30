@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Minimal.API",
+    "\\Minimal.API\\Controllers",
+    "\\Minimal.Core",
+    "\\Minimal.Infrastructure"
+  ],
+  "SelectedNode": "\\Minimal.API\\Controllers\\MoviesController.cs",
+  "PreviewInSolutionExplorer": false 
+}
